@@ -58,7 +58,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)&nbsp;
     ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)&nbsp;
     
-- OS & IDE & Tools : <br />
+- OS & IDE : <br />
     ![Jupyter](https://img.shields.io/badge/Jupyter-333333?logo=Jupyter)&nbsp;
     ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)&nbsp;
     ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)&nbsp;
