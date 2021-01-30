@@ -26,27 +26,32 @@ I'm Rohan 👨‍💻 & I'm a actuarial researcher. I'm from India, living in Pu
     <a href="https://www.facebook.com/rohanyashraj/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
     </a>&nbsp;&nbsp;
-    
-    
 </p>
 
 As an Actuarial Data Scientist, I pursue research in the area of data-driven fraud detection using actuarial and data science techniques for insurance industry. I use the amalgamation of actuarial science and data science to solve complex problems in the areas of my research. This research is first of its kind in the Indian Insurance Industry. Latest data science techniques, which has shown immense benefit in other field of research, are being used for this work. I have made multiple presentation in international conferences, published 4 research work in international journal and 1 book chapter.
 
 Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
 
-## 🔧 Technologies & Tools
-<p align='left'>
+## 🔧 Technologies I've been learning and using so far :
+- Programming languages : <br />
     <a><img align="left" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" /></a>&nbsp;&nbsp;
-    <a><img align="left" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white" /></a>&nbsp;&nbsp;
-    <a><img align="left" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white" /></a>&nbsp;&nbsp;
     <a><img align="left" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" /></a>&nbsp;&nbsp;
     <a><img align="left" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /></a>&nbsp;&nbsp;
+    
+- Machine Learning / Deep Learning frameworks : <br />
+ [![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00)](https://dinhanhthi.com/tags#tensorflow)
+    [![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)](https://dinhanhthi.com/notes#machine_learning)
+    [![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)](https://dinhanhthi.com/tags#pytorch)
+    [![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626)](https://dinhanhthi.com/jupyter-notebook)
+    
+    <a><img align="left" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white" /></a>&nbsp;&nbsp;
+    <a><img align="left" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white" /></a>&nbsp;&nbsp;
+
     <a><img align="left" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" /></a>&nbsp;&nbsp;
     <a><img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white" /></a>&nbsp;&nbsp;
     <a><img align="left" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white" /></a>&nbsp;&nbsp;
     <a><img align="left" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" /></a>&nbsp;&nbsp;
     <a><img align="left" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" /></a>&nbsp;&nbsp;
-</p>
 <br/>
 
 ## 🤷‍♂️ Talking about personal stuff
