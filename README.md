@@ -65,9 +65,7 @@ I am a member of two Actuarial bodies:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanYashraj&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanYashraj&layout=compact" />&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanYashraj&count_private=true&show_icons=true&theme=default&hide_rank=true&disable_animations=true&custom_title=Stats" /></div>
 
 <!--
 <a href="https://github.com/MartinHeinz/MartinHeinz">
