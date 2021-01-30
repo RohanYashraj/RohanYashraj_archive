@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 [1]: https://twitter.com/Rohan_Yashraj
 [2]: https://github.com/RohanYashraj
-[3]: https://www.linkedin.com/in/rohan-gupta-8321a814b/
+[3]: https://www.linkedin.com/in/rohanyashraj/
 
 
 <!-- Resources -->
