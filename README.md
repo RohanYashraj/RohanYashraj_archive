@@ -55,9 +55,18 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     <a><img align="left" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" /></a>&nbsp;&nbsp;
     
 - OS & IDE & Tools : <br />
+    ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
+    ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+    ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
     ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
     ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-    ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+    ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)&nbsp;
+    ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
+    ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
+
+- Packages : <br />
+    ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
+    ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
 
 <br/>
 
@@ -79,9 +88,19 @@ I am a member of two Actuarial bodies:
 
 ## &#x1f4c8; GitHub Stats
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanYashraj&layout=compact" />&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanYashraj&count_private=true&show_icons=true&theme=default&hide_rank=true&disable_animations=true&custom_title=Stats" /></div>
+<div>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanYashraj&layout=compact" />&nbsp;&nbsp;&nbsp;
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=RohanYashraj&count_private=true&show_icons=true&theme=default&hide_rank=true&disable_animations=true&custom_title=Stats" />&nbsp;&nbsp;
+</div>
+
+
 
 <!--
+
+## Visitors
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
+
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanYashraj&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rohan's GitHub Stats" />
 </a>
