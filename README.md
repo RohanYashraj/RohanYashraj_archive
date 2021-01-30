@@ -34,9 +34,9 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 
 ## 🔧 Technologies I've been learning and using so far :
 - Programming languages : <br />
-    <a><img align="left" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" /></a>&nbsp;
-    <a><img align="left" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" /></a>&nbsp;
-    <a><img align="left" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /></a>&nbsp;
+    <img align="left" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />&nbsp;
+    <img align="left" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />&nbsp;
+    <img align="left" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />&nbsp;
     
 - Machine Learning / Deep Learning frameworks : <br />
     ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00)&nbsp;
