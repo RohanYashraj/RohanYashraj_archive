@@ -39,6 +39,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 - Programming languages : <br />
     ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)&nbsp;
     ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
+    ![RShiny](https://img.shields.io/badge/R_Shiny-13B5EA?logo=r&logoColor=white)&nbsp;
     ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)&nbsp;
     
 - Machine Learning / Deep Learning frameworks : <br />
@@ -48,13 +49,12 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![Keras](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)&nbsp;
     
 - Frontend : <br />
-    ![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white)&nbsp;
-    ![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white)&nbsp;
+    ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
+    ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)&nbsp;
+    ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)&nbsp;
 
 - Backend : <br />
     ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)&nbsp;
-    ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)&nbsp;
-    ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)&nbsp;
     ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)&nbsp;
     ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)&nbsp;
     
@@ -63,15 +63,20 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)&nbsp;
     ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)&nbsp;
     ![Markdown](https://img.shields.io/badge/Markdown-333333?logo=markdown&logoColor=white)&nbsp;
+    ![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?logo=Ubuntu)&nbsp;
+    ![Windows](https://img.shields.io/badge/Windows-333333?logo=Windows&logoColor=white)&nbsp;
+    
+- Tools : <br />
+    ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)&nbsp;
+    ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)&nbsp;
     ![Git](https://img.shields.io/badge/Git-05122A?logo=git)&nbsp;
     ![GitHub](https://img.shields.io/badge/GitHub-05122A?logo=github&logoColor=white)&nbsp;
     ![Anaconda](https://img.shields.io/badge/Anaconda-333333?logo=Anaconda)&nbsp;
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?logo=Ubuntu)&nbsp;
-    ![Windows](https://img.shields.io/badge/Windows-333333?logo=Windows&logoColor=white)&nbsp;
 
 - Packages : <br />
     ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)&nbsp;
     ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)&nbsp;
+    ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)&nbsp;
 
 ## 🤷‍♂️ Talking about personal stuff
 
