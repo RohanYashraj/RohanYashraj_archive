@@ -14,8 +14,11 @@ I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi a
     <a href="mailto:rohanyashraj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/RohanYashraj/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+    <a href="https://www.researchgate.net/profile/Rohan_Gupta54">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />        
+    </a>&nbsp;&nbsp;
+    <a href="https://orcid.org/0000-0003-2404-8036">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />        
     </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/rohanyashraj/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
@@ -34,14 +37,15 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 
 ## 🔧 Technologies I've been learning and using so far :
 - Programming languages : <br />
-    ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)&nbsp;
+    ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)&nbsp;
     ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
-    ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)&nbsp;
+    ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)&nbsp;
     
 - Machine Learning / Deep Learning frameworks : <br />
-    ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00)&nbsp;
-    ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)&nbsp;
-    ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)&nbsp;
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)&nbsp;
+    ![Scikit-learn](http://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)&nbsp;
+    ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?logo=pytorch&logoColor=white)&nbsp;
+    ![Keras](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)&nbsp;
     
 - Frontend : <br />
     ![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white)&nbsp;
@@ -55,19 +59,19 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)&nbsp;
     
 - OS & IDE & Tools : <br />
-    ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
-    ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-    ![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
-    ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-    ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)&nbsp;
-    ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
-    ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
+    ![Jupyter](https://img.shields.io/badge/Jupyter-333333?logo=Jupyter)&nbsp;
+    ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)&nbsp;
+    ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)&nbsp;
+    ![Markdown](https://img.shields.io/badge/Markdown-333333?logo=markdown&logoColor=white)&nbsp;
+    ![Git](https://img.shields.io/badge/Git-05122A?logo=git)&nbsp;
+    ![GitHub](https://img.shields.io/badge/GitHub-05122A?logo=github&logoColor=white)&nbsp;
+    ![Anaconda](https://img.shields.io/badge/Anaconda-333333?logo=Anaconda)&nbsp;
+    ![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?logo=Ubuntu)&nbsp;
+    ![Windows](https://img.shields.io/badge/Windows-333333?logo=Windows&logoColor=white)&nbsp;
 
 - Packages : <br />
-    ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
-    ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
+    ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)&nbsp;
+    ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)&nbsp;
 
 ## 🤷‍♂️ Talking about personal stuff
 
