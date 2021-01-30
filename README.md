@@ -69,8 +69,6 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
     ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
 
-<br/>
-
 ## 🤷‍♂️ Talking about personal stuff
 
 - 🔭 I’m currently working on "Building a data-driven fraud detection and prevention tools for insurance business using Actuarial and Data Science tools"
