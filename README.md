@@ -12,12 +12,20 @@ I'm Rohan 👨‍💻 & I'm a actuarial researcher. I'm from India, living in Pu
     <a href="mailto:rohanyashraj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
     </a>&nbsp;&nbsp;
+    <a href="https://github.com/RohanYashraj/">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+    </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/rohanyashraj/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
     </a>&nbsp;&nbsp;
     <a href="https://twitter.com/Rohan_Yashraj">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
     </a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/rohanyashraj/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
+    </a>&nbsp;&nbsp;
+    
+    
 </p>
 
 As an Actuarial Data Scientist, I pursue research in the area of data-driven fraud detection using actuarial and data science techniques for insurance industry. I use the amalgamation of actuarial science and data science to solve complex problems in the areas of my research. This research is first of its kind in the Indian Insurance Industry. Latest data science techniques, which has shown immense benefit in other field of research, are being used for this work. I have made multiple presentation in international conferences, published 4 research work in international journal and 1 book chapter.
