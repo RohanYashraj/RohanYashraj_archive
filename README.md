@@ -16,6 +16,16 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 - 💬 Ask me about anything - I am happy to help!
 - 📫 How to reach me: rohanyashraj@gmail.com
 
+## &#x270d; Membership
+
+I am a member of two Actuarial bodies:
+- Institute of Actuaries of India: Mumbai, Mahatashtra, IN
+2020-04-01 to present | Student Member (Actuarial)
+- Casualty Actuarial Society (CAS): Arlington, US
+2019-06-01 to present | Student Member (Actuarial)
+
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
