@@ -34,9 +34,9 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 
 ## 🔧 Technologies I've been learning and using so far :
 - Programming languages : <br />
-    <img align="left" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />&nbsp;
-    <img align="left" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />&nbsp;
-    <img align="left" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />&nbsp;
+    ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)&nbsp;
+    ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
+    ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)&nbsp;
     
 - Machine Learning / Deep Learning frameworks : <br />
     ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00)&nbsp;
@@ -44,15 +44,15 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)&nbsp;
     
 - Frontend : <br />
-    <a><img align="left" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white" /></a>&nbsp;
-    <a><img align="left" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white" /></a>&nbsp;
+    ![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white)&nbsp;
+    ![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white)&nbsp;
 
 - Backend : <br />
-    <a><img align="left" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" /></a>&nbsp;
-    <a><img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white" /></a>&nbsp;
-    <a><img align="left" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white" /></a>&nbsp;
-    <a><img align="left" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" /></a>&nbsp;
-    <a><img align="left" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" /></a>&nbsp;
+    ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)&nbsp;
+    ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)&nbsp;
+    ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)&nbsp;
+    ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)&nbsp;
+    ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)&nbsp;
     
 - OS & IDE & Tools : <br />
     ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
