@@ -27,9 +27,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 ## 🔧 Technologies & Tools
 <img align="left" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
