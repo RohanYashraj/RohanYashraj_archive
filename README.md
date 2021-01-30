@@ -35,6 +35,7 @@ As an Actuarial Data Scientist, I pursue research in the area of data-driven fra
 Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
 
 ## 🔧 Technologies & Tools
+<p align='left'>
 <img align="left" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white" />
@@ -45,6 +46,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 <img align="left" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+</p>
 <br/>
 
 ## 🤷‍♂️ Talking about personal stuff
