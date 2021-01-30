@@ -4,6 +4,10 @@
 
 My name is Rohan and I'm a actuarial researcher. I'm from India, living in Puttaparthi and currently working at SSSIHL. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
+As an Actuarial Data Scientist, I pursue research in the area of data-driven fraud detection using actuarial and data science techniques for insurance industry. I use the amalgamation of actuarial science and data science to solve complex problems in the areas of my research. This research is first of its kind in the Indian Insurance Industry. Latest data science techniques, which has shown immense benefit in other field of research, are being used for this work. I have made multiple presentation in international conferences, published 4 research work in international journal and 1 book chapter.
+
+Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
+
 ## Talking about personal stuff
 
 - 🔭 I’m currently working on "Building a data-driven fraud detection and prevention tools for insurance business using Actuarial and Data Science tools"
@@ -33,7 +37,6 @@ My name is Rohan and I'm a actuarial researcher. I'm from India, living in Putta
 </a>   
 
 -->
-
 <!--
 **RohanYashraj/RohanYashraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
