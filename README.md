@@ -44,7 +44,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 - Machine Learning / Deep Learning frameworks : <br />
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)&nbsp;
     ![Scikit-learn](http://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)&nbsp;
-    ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?logo=pytorch&logoColor=white)&nbsp;
+    ![PyTorch](http://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)&nbsp;
     ![Keras](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)&nbsp;
     
 - Frontend : <br />
