@@ -67,11 +67,13 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![Windows](https://img.shields.io/badge/Windows-333333?logo=Windows&logoColor=white)&nbsp;
     
 - Tools : <br />
-    ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)&nbsp;
-    ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)&nbsp;
+    ![Excel](https://img.shields.io/badge/MS_Excel-217346?logo=microsoft-excel&logoColor=white)&nbsp;
+    ![Office](https://img.shields.io/badge/MS_Office-D83B01?logo=microsoft-office&logoColor=white)&nbsp;
+    ![Powerpoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)&nbsp;
     ![Git](https://img.shields.io/badge/Git-05122A?logo=git)&nbsp;
     ![GitHub](https://img.shields.io/badge/GitHub-05122A?logo=github&logoColor=white)&nbsp;
     ![Anaconda](https://img.shields.io/badge/Anaconda-333333?logo=Anaconda)&nbsp;
+    ![OBS](https://img.shields.io/badge/OBS_Studio-302E31?logo=obs-studio&logoColor=white)&nbsp;
 
 - Packages : <br />
     ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)&nbsp;
