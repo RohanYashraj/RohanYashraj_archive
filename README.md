@@ -1,14 +1,44 @@
 [<img src="https://github.com/RohanYashraj/RohanYashraj/blob/main/Header.jpg" width="100%">](https://sites.google.com/view/rohanyashraj)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Rohan and I'm a actuarial researcher. I'm from India, living in Puttaparthi and currently working at SSSIHL. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
+I'm Rohan 👨‍💻 & I'm a actuarial researcher. I'm from India, living in Puttaparthi and currently working at SSSIHL. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
+<p align='center'>
+    <a href="https://www.linkedin.com/in/rohanyashraj/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>&nbsp;&nbsp;
+    <a href="mailto:rohanyashraj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+    </a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/rohanyashraj/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    </a>&nbsp;&nbsp;
+    <a href="https://twitter.com/Rohan_Yashraj">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+    </a>&nbsp;&nbsp;
+</p>
 
 As an Actuarial Data Scientist, I pursue research in the area of data-driven fraud detection using actuarial and data science techniques for insurance industry. I use the amalgamation of actuarial science and data science to solve complex problems in the areas of my research. This research is first of its kind in the Indian Insurance Industry. Latest data science techniques, which has shown immense benefit in other field of research, are being used for this work. I have made multiple presentation in international conferences, published 4 research work in international journal and 1 book chapter.
 
 Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
 
-## Talking about personal stuff
+## 🔧 Technologies & Tools
+<img align="left" src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white" />
+<br/>
+
+## 🤷‍♂️ Talking about personal stuff
 
 - 🔭 I’m currently working on "Building a data-driven fraud detection and prevention tools for insurance business using Actuarial and Data Science tools"
 - 🌱 I’m currently learning Flask, R-Shiny, AWS
@@ -23,8 +53,6 @@ I am a member of two Actuarial bodies:
 2020-04-01 to present | Student Member (Actuarial)
 - Casualty Actuarial Society (CAS): Arlington, US
 2019-06-01 to present | Student Member (Actuarial)
-
-
 
 ## &#x1f4c8; GitHub Stats
 
