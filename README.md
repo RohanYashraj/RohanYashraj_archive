@@ -8,10 +8,8 @@ I'm Rohan 👨‍💻 & I'm a actuarial researcher. I'm from India, living in Pu
 I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi and currently working at SSSIHL. You can find me on:
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/rohanyashraj/" target="_blank"> LinkedIn
-    </a>&nbsp;&nbsp;
-    <a href="mailto:rohanyashraj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+    <a href="https://www.linkedin.com/in/rohanyashraj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>&nbsp;&nbsp;
     <a href="https://www.researchgate.net/profile/Rohan_Gupta54">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />        
@@ -20,10 +18,7 @@ I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi a
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />        
     </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/rohanyashraj/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-    </a>&nbsp;&nbsp;
-    <a href="https://twitter.com/Rohan_Yashraj">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+    <img src="https://img.shields.io/badge/instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />        
     </a>&nbsp;&nbsp;
     <a href="https://www.facebook.com/rohanyashraj/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
@@ -102,7 +97,6 @@ I am a member of two Actuarial bodies:
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanYashraj&layout=compact" />&nbsp;&nbsp;&nbsp;
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=RohanYashraj&count_private=true&show_icons=true&theme=default&hide_rank=true&disable_animations=true&custom_title=Stats" />&nbsp;&nbsp;
 </div>
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
