@@ -1,7 +1,5 @@
 # Hi there, I'm Rohan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" align='center'>
-
 <!-- 
 I'm Rohan 👨‍💻 & I'm a actuarial researcher. I'm from India, living in Puttaparthi and currently working at SSSIHL. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 -->
@@ -9,20 +7,15 @@ I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi a
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/rohanyashraj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
     <a href="https://www.researchgate.net/profile/Rohan_Gupta54">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />        
-    </a>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>&nbsp;&nbsp;
     <a href="https://orcid.org/0000-0003-2404-8036">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />        
-    </a>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/rohanyashraj/">
-    <img src="https://img.shields.io/badge/instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />        
-    </a>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
     <a href="https://www.facebook.com/rohanyashraj/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
-    </a>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
 As an Actuarial Data Scientist, I pursue research in the area of data-driven fraud detection using actuarial and data science techniques for insurance industry. I use the amalgamation of actuarial science and data science to solve complex problems in the areas of my research. This research is first of its kind in the Indian Insurance Industry. Latest data science techniques, which has shown immense benefit in other field of research, are being used for this work. I have made multiple presentation in international conferences, published 4 research work in international journal and 1 book chapter.
