@@ -93,7 +93,7 @@ I am a member of two Actuarial bodies:
 ## &#x1f4c8; GitHub Stats
 
 <div>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanYashraj&layout=compact" />&nbsp;&nbsp;&nbsp;
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanYashraj&layout=compact" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=RohanYashraj&count_private=true&show_icons=true&theme=default&hide_rank=true&disable_animations=true&custom_title=Stats" />&nbsp;&nbsp;
 </div>
 
