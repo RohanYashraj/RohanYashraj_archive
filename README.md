@@ -51,6 +51,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 - Frontend : <br />
     ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
     ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)&nbsp;
+    ![Jinja](https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=white)&nbsp;
     ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)&nbsp;
 
 - Backend : <br />
