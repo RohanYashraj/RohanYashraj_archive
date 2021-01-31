@@ -9,7 +9,6 @@ I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi a
 
 <p align='center'>
     <a href="https://www.linkedin.com/in/rohanyashraj/" target="_blank"> LinkedIn
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>&nbsp;&nbsp;
     <a href="mailto:rohanyashraj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
