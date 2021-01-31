@@ -8,7 +8,7 @@ I'm Rohan 👨‍💻 & I'm a actuarial researcher. I'm from India, living in Pu
 I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi and currently working at SSSIHL. You can find me on:
 
 <p align='center'>
-    <a href="https://www.linkedin.com/in/rohanyashraj/">
+    <a href="https://www.linkedin.com/in/rohanyashraj/"  target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="mailto:rohanyashraj@gmail.com">
