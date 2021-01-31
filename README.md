@@ -1,5 +1,5 @@
 # Hi there, I'm Rohan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="header.gif" x1="10" y1="10" x2="20" y2="20">
+<img src="img/header.gif" x1="10" y1="10" x2="20" y2="20">
 
 <!-- 
 I'm Rohan 👨‍💻 & I'm a actuarial researcher. I'm from India, living in Puttaparthi and currently working at SSSIHL. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
