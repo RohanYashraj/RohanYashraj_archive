@@ -28,7 +28,8 @@ As an Actuarial Data Scientist, I pursue research in the area of data-driven fra
 Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
 </p>
 
-<details><summary><h2>Research Publications</h2></summary>
+<details>
+    <summary>Research Publications</summary>
     
 + TGANs with Machine Learning Models in Automobile Insurance Fraud Detection and Comparative Study with Other Data Imbalance Techniques. [Click Here](https://www.ijrte.org/wp-content/uploads/papers/v9i5/E5277019521.pdf)
 + “A proposed unsupervised learning approach for fraud detection in automobile insurance using Apache Spark,” in International Virtual Conference on Distributed Computing, Intelligence & it’s Applications IVCDCIA, 2020.
