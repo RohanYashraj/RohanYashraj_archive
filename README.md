@@ -28,6 +28,16 @@ As an Actuarial Data Scientist, I pursue research in the area of data-driven fra
 Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
 </p>
 
+<details><summary><h2>Research Publications</h2></summary>
+    
++ TGANs with Machine Learning Models in Automobile Insurance Fraud Detection and Comparative Study with Other Data Imbalance Techniques. [Click Here](https://www.ijrte.org/wp-content/uploads/papers/v9i5/E5277019521.pdf)
++ “A proposed unsupervised learning approach for fraud detection in automobile insurance using Apache Spark,” in International Virtual Conference on Distributed Computing, Intelligence & it’s Applications IVCDCIA, 2020.
++ A Proposed Model for Measuring Protection of Policyholders’ Interest at Industry Level, IRDAI Journal. [Click Here](https://www.irdai.gov.in/admincms/cms/uploadedfiles/Journal%20IRDAI%2028.02.2020.pdf)
++ Implementation of Correlation and Regression Models for Health Insurance Fraud in Covid-19 Environment using Actuarial and Data Science Techniques. [Click Here](https://www.ijrte.org/wp-content/uploads/papers/v9i3/C4686099320.pdf)
++ Implementation of a Predictive Model for Fraud Detection in Motor Insurance using Gradient Boosting Method and Validation with Actuarial Models. [Click Here](https://ieeexplore.ieee.org/document/9167733/)
++ A Framework for Comprehensive Fraud Management using Actuarial Techniques. [Click Here](https://www.ijser.org/researchpaper/A-Framework-for-Comprehensive-Fraud-Management-using-Actuarial-Techniques.pdf)
+</details>
+
 ## 🔧 Technologies I've been learning and using so far :
 - Programming languages : <br />
     ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)&nbsp;
