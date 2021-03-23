@@ -31,6 +31,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 <details>
     <summary>Research Publications</summary>
     
++ A Comparative Study of Using Various Machine Learning and Deep Learning-Based Fraud Detection Models For Universal Health Coverage Schemes. [Click Here](https://www.ijettjournal.org/Volume-69/Issue-3/IJETT-V69I3P216.pdf)
 + TGANs with Machine Learning Models in Automobile Insurance Fraud Detection and Comparative Study with Other Data Imbalance Techniques. [Click Here](https://www.ijrte.org/wp-content/uploads/papers/v9i5/E5277019521.pdf)
 + “A proposed unsupervised learning approach for fraud detection in automobile insurance using Apache Spark,” in International Virtual Conference on Distributed Computing, Intelligence & it’s Applications IVCDCIA, 2020.
 + A Proposed Model for Measuring Protection of Policyholders’ Interest at Industry Level, IRDAI Journal. [Click Here](https://www.irdai.gov.in/admincms/cms/uploadedfiles/Journal%20IRDAI%2028.02.2020.pdf)
