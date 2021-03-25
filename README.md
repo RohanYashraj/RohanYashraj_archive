@@ -24,7 +24,7 @@ I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi a
 
 ## 👨‍💻 Data Science Specific Implementations:
 
-- A proof of concept fraud detection tool using machine learning implemented in R and RShiny. [Click Here](https://sssihltechactuarial.shinyapps.io/frauddetection/) <br/>
+- A proof of concept fraud detection tool using machine learning implemented in R and RShiny (Part of PhD work). [Click Here](https://sssihltechactuarial.shinyapps.io/frauddetection/) <br/>
     Tools used : 
     ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
     ![RShiny](https://img.shields.io/badge/R_Shiny-13B5EA?logo=r&logoColor=white)&nbsp;
