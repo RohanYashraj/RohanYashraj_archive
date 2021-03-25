@@ -47,7 +47,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
 
 - Built, customized and implemented the Learning Management System for the university<br/>
-    Tools used:
+    Tools used :
     ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)&nbsp;
     ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
 
