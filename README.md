@@ -28,21 +28,9 @@ As an Actuarial Data Scientist, I pursue research in the area of data-driven fra
 Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
 </p>
 
-## Data Science Specific Implementations:
+## 👨‍💻 Data Science Specific Implementations:
 
 + A proof of concept fraud detection tool using machine learning implemented in R and RShiny. [Click Here](https://sssihltechactuarial.shinyapps.io/frauddetection/)
-
-<details>
-    <summary>Research Publications</summary>
-    
-+ A Comparative Study of Using Various Machine Learning and Deep Learning-Based Fraud Detection Models For Universal Health Coverage Schemes. [Click Here](https://www.ijettjournal.org/Volume-69/Issue-3/IJETT-V69I3P216.pdf)
-+ TGANs with Machine Learning Models in Automobile Insurance Fraud Detection and Comparative Study with Other Data Imbalance Techniques. [Click Here](https://www.ijrte.org/wp-content/uploads/papers/v9i5/E5277019521.pdf)
-+ “A proposed unsupervised learning approach for fraud detection in automobile insurance using Apache Spark,” in International Virtual Conference on Distributed Computing, Intelligence & it’s Applications IVCDCIA, 2020.
-+ A Proposed Model for Measuring Protection of Policyholders’ Interest at Industry Level, IRDAI Journal. [Click Here](https://www.irdai.gov.in/admincms/cms/uploadedfiles/Journal%20IRDAI%2028.02.2020.pdf)
-+ Implementation of Correlation and Regression Models for Health Insurance Fraud in Covid-19 Environment using Actuarial and Data Science Techniques. [Click Here](https://www.ijrte.org/wp-content/uploads/papers/v9i3/C4686099320.pdf)
-+ Implementation of a Predictive Model for Fraud Detection in Motor Insurance using Gradient Boosting Method and Validation with Actuarial Models. [Click Here](https://ieeexplore.ieee.org/document/9167733/)
-+ A Framework for Comprehensive Fraud Management using Actuarial Techniques. [Click Here](https://www.ijser.org/researchpaper/A-Framework-for-Comprehensive-Fraud-Management-using-Actuarial-Techniques.pdf)
-</details>
 
 ## 🔧 Technologies I've been learning and using so far :
 - Programming languages : <br />
@@ -105,6 +93,18 @@ I am a member of two Actuarial bodies:
 2020-04-01 to present | Student Member (Actuarial)
 - Casualty Actuarial Society (CAS): Arlington, US
 2019-06-01 to present | Student Member (Actuarial)
+
+<details>
+    <summary>Research Publications</summary>
+    
++ A Comparative Study of Using Various Machine Learning and Deep Learning-Based Fraud Detection Models For Universal Health Coverage Schemes. [Click Here](https://www.ijettjournal.org/Volume-69/Issue-3/IJETT-V69I3P216.pdf)
++ TGANs with Machine Learning Models in Automobile Insurance Fraud Detection and Comparative Study with Other Data Imbalance Techniques. [Click Here](https://www.ijrte.org/wp-content/uploads/papers/v9i5/E5277019521.pdf)
++ “A proposed unsupervised learning approach for fraud detection in automobile insurance using Apache Spark,” in International Virtual Conference on Distributed Computing, Intelligence & it’s Applications IVCDCIA, 2020.
++ A Proposed Model for Measuring Protection of Policyholders’ Interest at Industry Level, IRDAI Journal. [Click Here](https://www.irdai.gov.in/admincms/cms/uploadedfiles/Journal%20IRDAI%2028.02.2020.pdf)
++ Implementation of Correlation and Regression Models for Health Insurance Fraud in Covid-19 Environment using Actuarial and Data Science Techniques. [Click Here](https://www.ijrte.org/wp-content/uploads/papers/v9i3/C4686099320.pdf)
++ Implementation of a Predictive Model for Fraud Detection in Motor Insurance using Gradient Boosting Method and Validation with Actuarial Models. [Click Here](https://ieeexplore.ieee.org/document/9167733/)
++ A Framework for Comprehensive Fraud Management using Actuarial Techniques. [Click Here](https://www.ijser.org/researchpaper/A-Framework-for-Comprehensive-Fraud-Management-using-Actuarial-Techniques.pdf)
+</details>
 
 ## &#x1f4c8; GitHub Stats
 
