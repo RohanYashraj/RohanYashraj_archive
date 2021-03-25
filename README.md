@@ -28,6 +28,10 @@ As an Actuarial Data Scientist, I pursue research in the area of data-driven fra
 Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
 </p>
 
+## Data Science Specific Implementations:
+
++ A proof of concept fraud detection tool using machine learning implemented in R and RShiny. [Click Here](https://sssihltechactuarial.shinyapps.io/frauddetection/)
+
 <details>
     <summary>Research Publications</summary>
     
