@@ -30,8 +30,13 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 
 ## 👨‍💻 Data Science Specific Implementations:
 
-+ A proof of concept fraud detection tool using machine learning implemented in R and RShiny. [Click Here](https://sssihltechactuarial.shinyapps.io/frauddetection/)
-
+- A proof of concept fraud detection tool using machine learning implemented in R and RShiny. [Click Here](https://sssihltechactuarial.shinyapps.io/frauddetection/) <br/>
+    ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
+    ![RShiny](https://img.shields.io/badge/R_Shiny-13B5EA?logo=r&logoColor=white)&nbsp;
+    ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
+    ![Markdown](https://img.shields.io/badge/Markdown-333333?logo=markdown&logoColor=white)&nbsp;
+    ![Git](https://img.shields.io/badge/Git-05122A?logo=git)&nbsp;
+    
 ## 🔧 Technologies I've been learning and using so far :
 - Programming languages : <br />
     ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)&nbsp;
