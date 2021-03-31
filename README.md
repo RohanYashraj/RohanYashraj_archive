@@ -19,6 +19,8 @@ I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi a
         <img src="https://img.shields.io/badge/instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
     <a href="https://www.facebook.com/rohanyashraj/">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+    <a href="https://scholar.google.com/citations?user=lZ-vk-EAAAAJ&hl=en">
+        <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
 
