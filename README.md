@@ -23,11 +23,18 @@ I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi a
         <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
+<p align='justify'>
+As an Actuarial Data Scientist, I pursue research in the area of data-driven fraud detection using actuarial and data science techniques for insurance industry. I use the amalgamation of actuarial science and data science to solve complex problems in the areas of my research. This research is first of its kind in the Indian Insurance Industry. Latest data science techniques, which has shown immense benefit in other field of research, are being used for this work. I have made multiple presentation in international conferences, published 4 research work in international journal and 1 book chapter.
+    <br/>
+    <br/>
+Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
+</p>
 
 ## 👨‍💻 Data Science Specific Implementations:
 
-- A proof of concept fraud detection tool using machine learning implemented in R and RShiny (Part of PhD work). [Click Here](https://sssihlactuarialdatascience.shinyapps.io/InsuranceFraudClassifier/) <br/>
-    Tools used : 
+1. Fraud Detection Tool (Part of PhD work). [Click Here](https://sssihlactuarialdatascience.shinyapps.io/InsuranceFraudClassifier/)
+    1. Built a tool on RShiny to detect motor insurance fraud
+    2. Tools used : 
     ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
     ![RShiny](https://img.shields.io/badge/R_Shiny-13B5EA?logo=r&logoColor=white)&nbsp;
     ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
@@ -36,24 +43,36 @@ I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi a
     ![Markdown](https://img.shields.io/badge/Markdown-333333?logo=markdown&logoColor=white)&nbsp;
     ![Git](https://img.shields.io/badge/Git-05122A?logo=git)&nbsp;
     
-- Part of the core team which provides claims analytics for a world’s largest health insurance scheme. Built RShiny dashboard webapp for providing monthly claims analytics <br/>
-    Tools used :
+2. Ayushman Bharat Claims Analytics
+    1. Provided claims analytics to the broker and insurance company
+    2. Built Shiny app dashboard on R for users to track the claims experience on a monthly basis
+    3. Analysed claim patterns and fraud during COVID period
+    4. Tools used :
     ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
     ![RShiny](https://img.shields.io/badge/R_Shiny-13B5EA?logo=r&logoColor=white)&nbsp;
     ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
 
-- Built, customized and implemented the Learning Management System for the university<br/>
-    Tools used :
+3. Crop Insurance Pricing
+    1. Web scraping of daily yield data for various crops using python
+    2. Projecting crop yield data using ARIMA model
+    3. Built a dashboard to track futures value under different scenarios for various crops
+    4. Tools used:
+
+4. Cancer Product Pricing
+    1. Helped price cancer product for various types of cancer across different states in India
+    2. Built a dashboard for easy comparison and visualization of frequency, severity and risk premiums by gender and state
+    3. Tools used:
+
+5. Gratuity valuation
+    1. Developed an Excel spreadsheet that eased gratuity valuation as an actuarial consulting assignments
+    2. Tools used:
+
+6. Learning Management System for the University
+    1. Built, customized and implemented the Learning Management System for the university
+    2. Tools used :
     ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)&nbsp;
     ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
-
-
-<p align='justify'>
-As an Actuarial Data Scientist, I pursue research in the area of data-driven fraud detection using actuarial and data science techniques for insurance industry. I use the amalgamation of actuarial science and data science to solve complex problems in the areas of my research. This research is first of its kind in the Indian Insurance Industry. Latest data science techniques, which has shown immense benefit in other field of research, are being used for this work. I have made multiple presentation in international conferences, published 4 research work in international journal and 1 book chapter.
-    <br/>
-    <br/>
-Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
-</p>
+    
 
 ## 🔧 Technologies I've been learning and using so far :
 - Programming languages : <br />
