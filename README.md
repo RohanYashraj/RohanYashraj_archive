@@ -86,7 +86,37 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)&nbsp;
     ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
 
-    
+
+## 👨‍💻 Work Experience:
+
+- CAS Student Central Independent Summer Internship Program 	Jun 2020 – Aug 2020 <br/> *Casualty Actuarial Society – USA* 
+    - Participated in a program spanning 6 weeks focused on various aspects of Property & Casualty 
+    - Attended practical webinars by Qualified Actuaries, and completed projects designed by them
+    - Attained insights into data visualization, pricing, reserving and predictive modelling
+
+- Learning Management System for University	Apr 2020 – Jul 2020 <br/>
+    - Part of the core team which built, customized and implemented the Learning Management System for the university (SSSIHL)
+    - Helped deploy the system through Amazon Web Services to facilitate the access of the system by all the students and faculty members using their laptops or mobile phone anywhere in the world
+    - Around 1400 users use this on a daily basis 
+
+- Doctor of Philosophy, Actuarial Science	Jun 2019 – Present <br/> *Sri Sathya Sai Institute of Higher Learning*
+    - Developing a novel approach to data-driven fraud detection and prevention in insurance using actuarial and data science techniques
+    - Building a proof of concept fraud detection tool which can be accessed via web by the user
+
+- Department of Mathematics and Computer Science	Jun 2019 – Present <br/> *Sri Sathya Sai Institute of Higher Learning*
+    - Teaching Actuarial Science subjects for Masters
+    - Providing Actuarial Dissertation Research support
+
+- Workshop Hands-on Predictive Analytics with Python	Feb 2021 – Mar 2021 <br/> *Sri Sathya Sai Institute of Higher Learning*
+    - Part of a team that conducted a 5 week long workshop on hands-on predictive analytics using python
+    - With Jupyter Notebook as a platform for python implementation, demonstrated the use of packages like numpy, pandas, matplotlib and scikit learn
+    - Provided hands-on training on various Machine Learning and Deep Learning models
+
+- Conference Presentations	
+    - “A proposed unsupervised learning approach for fraud detection in automobile insurance using Apache Spark” in International Virtual Conference on Distributed Computing, Intelligence & it's Applications IVCDCIA, 2020.
+    - “Implementation of a Predictive Model for Fraud Detection in Motor Insurance using Gradient Boosting Method and Validation with Actuarial Models,” in 2019 IEEE International Conference.
+
+
 ## &#x270d; Membership
 
 I am a member of two Actuarial bodies:
