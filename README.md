@@ -33,7 +33,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 
 ## 👨‍💻 Actuarial Data Science Implementations:
 
-- Fraud Detection Tool (Part of PhD work). [Click Here](https://sssihlactuarialdatascience.shinyapps.io/InsuranceFraudClassifier/)
+- **Fraud Detection Tool (Part of PhD work)** [Click Here](https://sssihlactuarialdatascience.shinyapps.io/InsuranceFraudClassifier/)
     - Built a tool on RShiny to detect motor insurance fraud
     - Tools used : 
     ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
@@ -44,7 +44,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![Markdown](https://img.shields.io/badge/Markdown-333333?logo=markdown&logoColor=white)&nbsp;
     ![Git](https://img.shields.io/badge/Git-05122A?logo=git)&nbsp;
     
-- Ayushman Bharat Claims Analytics
+- **Ayushman Bharat Claims Analytics**
     - Provided claims analytics to the broker and insurance company
     - Built Shiny app dashboard on R for users to track the claims experience on a monthly basis
     - Analysed claim patterns and fraud during COVID period
@@ -53,7 +53,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![RShiny](https://img.shields.io/badge/R_Shiny-13B5EA?logo=r&logoColor=white)&nbsp;
     ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
 
-- Crop Insurance Pricing
+- **Crop Insurance Pricing**
     - Web scraping of daily yield data for various crops using python
     - Projecting crop yield data using ARIMA model
     - Built a dashboard to track futures value under different scenarios for various crops
@@ -66,7 +66,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)&nbsp;
     ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)&nbsp;
 
-- Cancer Product Pricing
+- **Cancer Product Pricing**
     - Helped price cancer product for various types of cancer across different states in India
     - Built a dashboard for easy comparison and visualization of frequency, severity and risk premiums by gender and state
     - Tools used:
@@ -75,12 +75,12 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)&nbsp;
     ![Excel](https://img.shields.io/badge/MS_Excel-217346?logo=microsoft-excel&logoColor=white)&nbsp;
 
-- Gratuity valuation
+- **Gratuity valuation**
     - Developed an Excel spreadsheet that eased gratuity valuation as an actuarial consulting assignments
     - Tools used:
     ![Excel](https://img.shields.io/badge/MS_Excel-217346?logo=microsoft-excel&logoColor=white)&nbsp;
 
-- Learning Management System for the University
+- **Learning Management System for the University**
     - Built, customized and implemented the Learning Management System for the university
     - Tools used :
     ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)&nbsp;
@@ -89,30 +89,30 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 
 ## 👨‍💻 Work Experience:
 
-- CAS Student Central Independent Summer Internship Program 	Jun 2020 – Aug 2020 <br/> *Casualty Actuarial Society – USA* 
+- **CAS Student Central Independent Summer Internship Program** | Jun 2020 – Aug 2020 <br/> *Casualty Actuarial Society – USA* 
     - Participated in a program spanning 6 weeks focused on various aspects of Property & Casualty 
     - Attended practical webinars by Qualified Actuaries, and completed projects designed by them
     - Attained insights into data visualization, pricing, reserving and predictive modelling
 
-- Learning Management System for University	Apr 2020 – Jul 2020 <br/>
+- **Learning Management System for University** | Apr 2020 – Jul 2020 <br/>
     - Part of the core team which built, customized and implemented the Learning Management System for the university (SSSIHL)
     - Helped deploy the system through Amazon Web Services to facilitate the access of the system by all the students and faculty members using their laptops or mobile phone anywhere in the world
     - Around 1400 users use this on a daily basis 
 
-- Doctor of Philosophy, Actuarial Science	Jun 2019 – Present <br/> *Sri Sathya Sai Institute of Higher Learning*
+- **Doctor of Philosophy, Actuarial Science** | Jun 2019 – Present <br/> *Sri Sathya Sai Institute of Higher Learning*
     - Developing a novel approach to data-driven fraud detection and prevention in insurance using actuarial and data science techniques
     - Building a proof of concept fraud detection tool which can be accessed via web by the user
 
-- Department of Mathematics and Computer Science	Jun 2019 – Present <br/> *Sri Sathya Sai Institute of Higher Learning*
+- **Department of Mathematics and Computer Science** | Jun 2019 – Present <br/> *Sri Sathya Sai Institute of Higher Learning*
     - Teaching Actuarial Science subjects for Masters
     - Providing Actuarial Dissertation Research support
 
-- Workshop Hands-on Predictive Analytics with Python	Feb 2021 – Mar 2021 <br/> *Sri Sathya Sai Institute of Higher Learning*
+- **Workshop Hands-on Predictive Analytics with Python** | Feb 2021 – Mar 2021 <br/> *Sri Sathya Sai Institute of Higher Learning*
     - Part of a team that conducted a 5 week long workshop on hands-on predictive analytics using python
     - With Jupyter Notebook as a platform for python implementation, demonstrated the use of packages like numpy, pandas, matplotlib and scikit learn
     - Provided hands-on training on various Machine Learning and Deep Learning models
 
-- Conference Presentations	
+- **Conference Presentations**
     - “A proposed unsupervised learning approach for fraud detection in automobile insurance using Apache Spark” in International Virtual Conference on Distributed Computing, Intelligence & it's Applications IVCDCIA, 2020.
     - “Implementation of a Predictive Model for Fraud Detection in Motor Insurance using Gradient Boosting Method and Validation with Actuarial Models,” in 2019 IEEE International Conference.
 
