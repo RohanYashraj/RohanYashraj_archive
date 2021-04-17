@@ -32,9 +32,9 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 
 ## 👨‍💻 Data Science Specific Implementations:
 
-1. Fraud Detection Tool (Part of PhD work). [Click Here](https://sssihlactuarialdatascience.shinyapps.io/InsuranceFraudClassifier/)
-    1. Built a tool on RShiny to detect motor insurance fraud
-    2. Tools used : 
+- Fraud Detection Tool (Part of PhD work). [Click Here](https://sssihlactuarialdatascience.shinyapps.io/InsuranceFraudClassifier/)
+    - Built a tool on RShiny to detect motor insurance fraud
+    - Tools used : 
     ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
     ![RShiny](https://img.shields.io/badge/R_Shiny-13B5EA?logo=r&logoColor=white)&nbsp;
     ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
@@ -43,11 +43,11 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![Markdown](https://img.shields.io/badge/Markdown-333333?logo=markdown&logoColor=white)&nbsp;
     ![Git](https://img.shields.io/badge/Git-05122A?logo=git)&nbsp;
     
-2. Ayushman Bharat Claims Analytics
-    1. Provided claims analytics to the broker and insurance company
-    2. Built Shiny app dashboard on R for users to track the claims experience on a monthly basis
-    3. Analysed claim patterns and fraud during COVID period
-    4. Tools used :
+- Ayushman Bharat Claims Analytics
+    - Provided claims analytics to the broker and insurance company
+    - Built Shiny app dashboard on R for users to track the claims experience on a monthly basis
+    - Analysed claim patterns and fraud during COVID period
+    - Tools used :
     ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
     ![RShiny](https://img.shields.io/badge/R_Shiny-13B5EA?logo=r&logoColor=white)&nbsp;
     ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
