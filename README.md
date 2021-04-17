@@ -135,10 +135,9 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 ## ✍ Actuarial Membership
 
 I am a member of two Actuarial bodies:
-- Institute of Actuaries of India: Mumbai, Mahatashtra, IN
-2020-04-01 to present | Student Member (Actuarial)
-- Casualty Actuarial Society (CAS): Arlington, US
-2019-06-01 to present | Student Member (Actuarial)
+- **Institute of Faculty and Actuaries (IFoA)** | UK | 2017 to present | Student Member
+- **Institute of Actuaries of India** | India | 2020-04-01 to present | Student Member (Actuarial)
+- **Casualty Actuarial Society (CAS)** | USA | 2019-06-01 to present | Student Member
 
 
 ## 📜 Research Publications
