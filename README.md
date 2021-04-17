@@ -30,7 +30,8 @@ As an Actuarial Data Scientist, I pursue research in the area of data-driven fra
 Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
 </p>
 
-## 👨‍💻 Data Science Specific Implementations:
+
+## 👨‍💻 Actuarial Data Science Implementations:
 
 - Fraud Detection Tool (Part of PhD work). [Click Here](https://sssihlactuarialdatascience.shinyapps.io/InsuranceFraudClassifier/)
     - Built a tool on RShiny to detect motor insurance fraud
@@ -84,7 +85,37 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     - Tools used :
     ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)&nbsp;
     ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
+
     
+## &#x270d; Membership
+
+I am a member of two Actuarial bodies:
+- Institute of Actuaries of India: Mumbai, Mahatashtra, IN
+2020-04-01 to present | Student Member (Actuarial)
+- Casualty Actuarial Society (CAS): Arlington, US
+2019-06-01 to present | Student Member (Actuarial)
+
+
+## Research Publications
+    
++ A Comparative Study of Using Various Machine Learning and Deep Learning-Based Fraud Detection Models For Universal Health Coverage Schemes. [Click Here](https://www.ijettjournal.org/Volume-69/Issue-3/IJETT-V69I3P216.pdf)
++ TGANs with Machine Learning Models in Automobile Insurance Fraud Detection and Comparative Study with Other Data Imbalance Techniques. [Click Here](https://www.ijrte.org/wp-content/uploads/papers/v9i5/E5277019521.pdf)
++ “A proposed unsupervised learning approach for fraud detection in automobile insurance using Apache Spark,” in International Virtual Conference on Distributed Computing, Intelligence & it’s Applications IVCDCIA, 2020.
++ A Proposed Model for Measuring Protection of Policyholders’ Interest at Industry Level, IRDAI Journal. [Click Here](https://www.irdai.gov.in/admincms/cms/uploadedfiles/Journal%20IRDAI%2028.02.2020.pdf)
++ Implementation of Correlation and Regression Models for Health Insurance Fraud in Covid-19 Environment using Actuarial and Data Science Techniques. [Click Here](https://www.ijrte.org/wp-content/uploads/papers/v9i3/C4686099320.pdf)
++ Implementation of a Predictive Model for Fraud Detection in Motor Insurance using Gradient Boosting Method and Validation with Actuarial Models. [Click Here](https://ieeexplore.ieee.org/document/9167733/)
++ A Framework for Comprehensive Fraud Management using Actuarial Techniques. [Click Here](https://www.ijser.org/researchpaper/A-Framework-for-Comprehensive-Fraud-Management-using-Actuarial-Techniques.pdf)
+</details>
+
+
+## 🤷‍♂️ Talking about personal stuff
+
+- 🔭 I’m currently working on "Building a data-driven fraud detection and prevention tools for insurance business using Actuarial and Data Science tools"
+- 🌱 I’m currently learning Flask, R-Shiny, AWS
+- 🤔 I’m looking for help with Rule-engine and cloud platform
+- 💬 Ask me about anything - I am happy to help!
+- 📫 How to reach me: rohanyashraj@gmail.com
+
 
 ## 🔧 Technologies I've been learning and using so far :
 - Programming languages : <br />
@@ -131,33 +162,6 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)&nbsp;
     ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)&nbsp;
 
-## 🤷‍♂️ Talking about personal stuff
-
-- 🔭 I’m currently working on "Building a data-driven fraud detection and prevention tools for insurance business using Actuarial and Data Science tools"
-- 🌱 I’m currently learning Flask, R-Shiny, AWS
-- 🤔 I’m looking for help with Rule-engine and cloud platform
-- 💬 Ask me about anything - I am happy to help!
-- 📫 How to reach me: rohanyashraj@gmail.com
-
-## &#x270d; Membership
-
-I am a member of two Actuarial bodies:
-- Institute of Actuaries of India: Mumbai, Mahatashtra, IN
-2020-04-01 to present | Student Member (Actuarial)
-- Casualty Actuarial Society (CAS): Arlington, US
-2019-06-01 to present | Student Member (Actuarial)
-
-
-## Research Publications
-    
-+ A Comparative Study of Using Various Machine Learning and Deep Learning-Based Fraud Detection Models For Universal Health Coverage Schemes. [Click Here](https://www.ijettjournal.org/Volume-69/Issue-3/IJETT-V69I3P216.pdf)
-+ TGANs with Machine Learning Models in Automobile Insurance Fraud Detection and Comparative Study with Other Data Imbalance Techniques. [Click Here](https://www.ijrte.org/wp-content/uploads/papers/v9i5/E5277019521.pdf)
-+ “A proposed unsupervised learning approach for fraud detection in automobile insurance using Apache Spark,” in International Virtual Conference on Distributed Computing, Intelligence & it’s Applications IVCDCIA, 2020.
-+ A Proposed Model for Measuring Protection of Policyholders’ Interest at Industry Level, IRDAI Journal. [Click Here](https://www.irdai.gov.in/admincms/cms/uploadedfiles/Journal%20IRDAI%2028.02.2020.pdf)
-+ Implementation of Correlation and Regression Models for Health Insurance Fraud in Covid-19 Environment using Actuarial and Data Science Techniques. [Click Here](https://www.ijrte.org/wp-content/uploads/papers/v9i3/C4686099320.pdf)
-+ Implementation of a Predictive Model for Fraud Detection in Motor Insurance using Gradient Boosting Method and Validation with Actuarial Models. [Click Here](https://ieeexplore.ieee.org/document/9167733/)
-+ A Framework for Comprehensive Fraud Management using Actuarial Techniques. [Click Here](https://www.ijser.org/researchpaper/A-Framework-for-Comprehensive-Fraud-Management-using-Actuarial-Techniques.pdf)
-</details>
 
 ## &#x1f4c8; GitHub Stats
 
