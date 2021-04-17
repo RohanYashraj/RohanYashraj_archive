@@ -117,7 +117,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     - “Implementation of a Predictive Model for Fraud Detection in Motor Insurance using Gradient Boosting Method and Validation with Actuarial Models,” in 2019 IEEE International Conference.
 
 
-## 📜Actuarial Exams
+## 📜 Actuarial Exams
 
 - **Institute and Faculty of Actuaries (IFoA) – UK** | Sep 2017 – Present
     - CT1 – Financial Mathematics, Sep 2017
@@ -132,7 +132,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     - Exam 1, Exam 2, Exam 3F, MAS1, MAS2
 
 
-## &#x270d; Actuarial Membership
+## ✍ Actuarial Membership
 
 I am a member of two Actuarial bodies:
 - Institute of Actuaries of India: Mumbai, Mahatashtra, IN
@@ -141,7 +141,7 @@ I am a member of two Actuarial bodies:
 2019-06-01 to present | Student Member (Actuarial)
 
 
-## Research Publications
+## 📜 Research Publications
     
 + A Comparative Study of Using Various Machine Learning and Deep Learning-Based Fraud Detection Models For Universal Health Coverage Schemes. [Click Here](https://www.ijettjournal.org/Volume-69/Issue-3/IJETT-V69I3P216.pdf)
 + TGANs with Machine Learning Models in Automobile Insurance Fraud Detection and Comparative Study with Other Data Imbalance Techniques. [Click Here](https://www.ijrte.org/wp-content/uploads/papers/v9i5/E5277019521.pdf)
