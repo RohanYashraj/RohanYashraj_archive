@@ -117,7 +117,7 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     - “Implementation of a Predictive Model for Fraud Detection in Motor Insurance using Gradient Boosting Method and Validation with Actuarial Models,” in 2019 IEEE International Conference.
 
 
-## Actuarial Exams
+## 📜Actuarial Exams
 
 - **Institute and Faculty of Actuaries (IFoA) – UK** | Sep 2017 – Present
     - CT1 – Financial Mathematics, Sep 2017
