@@ -24,7 +24,7 @@ I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi a
 </p>
 
 <p align='justify'>
-As an Actuarial Data Scientist, I pursue research in the area of data-driven fraud detection using actuarial and data science techniques for insurance industry. I use the amalgamation of actuarial science and data science to solve complex problems in the areas of my research. This research is first of its kind in the Indian Insurance Industry. Latest data science techniques, which has shown immense benefit in other field of research, are being used for this work. I have made multiple presentation in international conferences, published 4 research work in international journal and 1 book chapter.
+As an Actuarial Data Scientist, I pursue research in the area of data-driven fraud detection using actuarial and data science techniques for insurance industry. I use the amalgamation of actuarial science and data science to solve complex problems in the areas of my research. This research is first of its kind in the Indian Insurance Industry. Latest data science techniques, which has shown immense benefit in other field of research, are being used for this work. I have made multiple presentation in international conferences, published 7 research works in international journal and 1 book chapter.
     <br/>
     <br/>
 Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
