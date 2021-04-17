@@ -135,8 +135,8 @@ I am a member of two Actuarial bodies:
 - Casualty Actuarial Society (CAS): Arlington, US
 2019-06-01 to present | Student Member (Actuarial)
 
-<details>
-    <summary>Research Publications</summary>
+
+## Research Publications
     
 + A Comparative Study of Using Various Machine Learning and Deep Learning-Based Fraud Detection Models For Universal Health Coverage Schemes. [Click Here](https://www.ijettjournal.org/Volume-69/Issue-3/IJETT-V69I3P216.pdf)
 + TGANs with Machine Learning Models in Automobile Insurance Fraud Detection and Comparative Study with Other Data Imbalance Techniques. [Click Here](https://www.ijrte.org/wp-content/uploads/papers/v9i5/E5277019521.pdf)
