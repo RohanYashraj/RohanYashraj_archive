@@ -57,15 +57,27 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     2. Projecting crop yield data using ARIMA model
     3. Built a dashboard to track futures value under different scenarios for various crops
     4. Tools used:
+    ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
+    ![RShiny](https://img.shields.io/badge/R_Shiny-13B5EA?logo=r&logoColor=white)&nbsp;
+    ![Excel](https://img.shields.io/badge/MS_Excel-217346?logo=microsoft-excel&logoColor=white)&nbsp;
+    ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)&nbsp;
+    ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)&nbsp;
+    ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)&nbsp;
+    ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)&nbsp;
 
 4. Cancer Product Pricing
     1. Helped price cancer product for various types of cancer across different states in India
     2. Built a dashboard for easy comparison and visualization of frequency, severity and risk premiums by gender and state
     3. Tools used:
+    ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
+    ![RShiny](https://img.shields.io/badge/R_Shiny-13B5EA?logo=r&logoColor=white)&nbsp;
+    ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)&nbsp;
+    ![Excel](https://img.shields.io/badge/MS_Excel-217346?logo=microsoft-excel&logoColor=white)&nbsp;
 
 5. Gratuity valuation
     1. Developed an Excel spreadsheet that eased gratuity valuation as an actuarial consulting assignments
     2. Tools used:
+    ![Excel](https://img.shields.io/badge/MS_Excel-217346?logo=microsoft-excel&logoColor=white)&nbsp;
 
 6. Learning Management System for the University
     1. Built, customized and implemented the Learning Management System for the university
