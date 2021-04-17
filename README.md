@@ -117,7 +117,22 @@ Identifying improved approaches and enhanced solutions to business challenges ar
     - “Implementation of a Predictive Model for Fraud Detection in Motor Insurance using Gradient Boosting Method and Validation with Actuarial Models,” in 2019 IEEE International Conference.
 
 
-## &#x270d; Membership
+## Actuarial Exams
+
+- **Institute and Faculty of Actuaries (IFoA) – UK** | Sep 2017 – Present
+    - CT1 – Financial Mathematics, Sep 2017
+    - CT3 – Probability and Mathematical Statistics, Sep 2018
+    - CT4 – Actuarial Models, Apr 2018
+    - CT5 – General, Health and Life contingencies, Apr 2018
+    - CT6 – Statistical Methods, Apr 2018
+    - CT9 – Business Awareness, Jan 2019
+    - CM2 – Loss reserving and financial engineering, Apr 2019
+
+- **Casualty Actuarial Society (CAS) – USA**
+    - Exam 1, Exam 2, Exam 3F, MAS1, MAS2
+
+
+## &#x270d; Actuarial Membership
 
 I am a member of two Actuarial bodies:
 - Institute of Actuaries of India: Mumbai, Mahatashtra, IN
