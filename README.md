@@ -1,7 +1,10 @@
 # Hi there, I'm Rohan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p align='center'>
+<!-- <p align='center'>
 <img src="img/profile.png" width="250px">
-</p>
+</p> -->
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=%231F04DE&center=true&vCenter=true&width=380&height=45&lines=Actuarial+Data+Science+Researcher;An+Actuary;Data+Science+Enthusiast;Web-App+Developer)](https://git.io/typing-svg)
+
 <!-- 
 I'm Rohan 👨‍💻 & I'm a actuarial researcher. I'm from India, living in Puttaparthi and currently working at SSSIHL. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 -->
@@ -23,12 +26,14 @@ I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi a
         <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
-<p align='justify'>
+I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+
+<!-- <p align='justify'>
 As an Actuarial Data Scientist, I pursue research in the area of data-driven fraud detection using actuarial and data science techniques for insurance industry. I use the amalgamation of actuarial science and data science to solve complex problems in the areas of my research. This research is first of its kind in the Indian Insurance Industry. Latest data science techniques, which has shown immense benefit in other field of research, are being used for this work. I have made multiple presentation in international conferences, published 7 research works in international journal and 1 book chapter.
     <br/>
     <br/>
 Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
-</p>
+</p> -->
 
 
 ## 👨‍💻 Actuarial Data Science Implementations:
