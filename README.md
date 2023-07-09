@@ -167,13 +167,13 @@ I am a member of two Actuarial bodies:
     ![Scikit-learn](http://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)&nbsp;
     ![Keras](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)&nbsp;
 
-- Frontend : <br />
+- Frontend : 
     ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
     ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)&nbsp;
     ![Jinja](https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=white)&nbsp;
     ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)&nbsp;
 
-- Backend : <br/>
+- Backend :
     ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)&nbsp;
     ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)&nbsp;
     ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)&nbsp;
