@@ -91,7 +91,8 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 
 ## 👨‍💻 Work Experience (Data Science Specific)
 
-- **CAS Student Central Independent Summer Internship Program** | Jun 2020 – Aug 2020   *Casualty Actuarial Society – USA*
+- **CAS Student Central Independent Summer Internship Program** | Jun 2020 – Aug 2020  
+*Casualty Actuarial Society – USA*
   - Participated in a program spanning 6 weeks focused on various aspects of Property & Casualty
   - Attended practical webinars by Qualified Actuaries, and completed projects designed by them
   - Attained insights into data visualization, pricing, reserving and predictive modelling
@@ -101,15 +102,18 @@ Identifying improved approaches and enhanced solutions to business challenges ar
   - Helped deploy the system through Amazon Web Services to facilitate the access of the system by all the students and faculty members using their laptops or mobile phone anywhere in the world
   - Around 1400 users use this on a daily basis
 
-- **Doctor of Philosophy, Actuarial Science** | Jun 2019 – Present   *Sri Sathya Sai Institute of Higher Learning*
+- **Doctor of Philosophy, Actuarial Science** | Jun 2019 – Present  
+*Sri Sathya Sai Institute of Higher Learning*
   - Developing a novel approach to data-driven fraud detection and prevention in insurance using actuarial and data science techniques
   - Building a proof of concept fraud detection tool which can be accessed via web by the user
 
-- **Department of Mathematics and Computer Science** | Jun 2019 – Present   *Sri Sathya Sai Institute of Higher Learning*
+- **Department of Mathematics and Computer Science** | Jun 2019 – Present  
+*Sri Sathya Sai Institute of Higher Learning*
   - Teaching Actuarial Science subjects for Masters
   - Providing Actuarial Dissertation Research support
 
-- **Workshop Hands-on Predictive Analytics with Python** | Feb 2021 – Mar 2021   *Sri Sathya Sai Institute of Higher Learning*
+- **Workshop Hands-on Predictive Analytics with Python** | Feb 2021 – Mar 2021  
+*Sri Sathya Sai Institute of Higher Learning*
   - Part of a team that conducted a 5 week long workshop on hands-on predictive analytics using python
   - With Jupyter Notebook as a platform for python implementation, demonstrated the use of packages like numpy, pandas, matplotlib and scikit learn
   - Provided hands-on training on various Machine Learning and Deep Learning models
@@ -201,10 +205,8 @@ I am a member of two Actuarial bodies:
 
 ## &#x1f4c8; GitHub Stats
 
-<div>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanYashraj&layout=compact" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=RohanYashraj&count_private=true&show_icons=true&theme=default&hide_rank=true&disable_animations=true&custom_title=Stats" />&nbsp;&nbsp;
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanYashraj&layout=compact)  
+![Stats](https://github-readme-stats.vercel.app/api?username=RohanYashraj&count_private=true&show_icons=true&theme=default&hide_rank=true&disable_animations=true&custom_title=Stats)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
