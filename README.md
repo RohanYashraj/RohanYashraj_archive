@@ -6,7 +6,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=&color=%231F04DE&center=true&vCenter=true&width=380&height=45&lines=Actuarial+Data+Science+Researcher;An+Actuary;Data+Science+Enthusiast;Web-App+Developer)](https://git.io/typing-svg)
 
 <!-- 
-I'm Rohan 👨‍💻 & I'm a actuarial researcher. I'm from India, living in Puttaparthi and currently working at SSSIHL. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I'm from India, living in Puttaparthi and currently working at SSSIHL. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 -->
 
 I'm an Actuarial Researcher 👨‍💻. I'm from India, living in Puttaparthi and currently working at SSSIHL. You can find me on:
