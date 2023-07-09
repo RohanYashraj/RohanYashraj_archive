@@ -205,8 +205,7 @@ I am a member of two Actuarial bodies:
 
 ## &#x1f4c8; GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanYashraj&layout=compact)  
-![Stats](https://github-readme-stats.vercel.app/api?username=RohanYashraj&count_private=true&show_icons=true&theme=default&hide_rank=true&disable_animations=true&custom_title=Stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanYashraj&layout=compact)  ![Stats](https://github-readme-stats.vercel.app/api?username=RohanYashraj&count_private=true&show_icons=true&theme=default&hide_rank=true&disable_animations=true&custom_title=Stats)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
