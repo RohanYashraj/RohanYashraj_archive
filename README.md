@@ -122,16 +122,10 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 ## 📜 Actuarial Exams
 
 - **Institute and Faculty of Actuaries (IFoA) – UK** | Sep 2017 – Present
-  - CT1 – Financial Mathematics, Sep 2017
-  - CT3 – Probability and Mathematical Statistics, Sep 2018
-  - CT4 – Actuarial Models, Apr 2018
-  - CT5 – General, Health and Life contingencies, Apr 2018
-  - CT6 – Statistical Methods, Apr 2018
-  - CT9 – Business Awareness, Jan 2019
-  - CM2 – Loss reserving and financial engineering, Apr 2019
+  - CS1, CS2, CM1, CM2, CB1, CB2, CB3, CP1, CP2, CP3
 
-- **Casualty Actuarial Society (CAS) – USA**
-  - Exam 1, Exam 2, Exam 3F, MAS1, MAS2
+- **Society od Actuaries (SOA) – USA**
+  - Exam PA, FAP Module, VEEs
 
 ## ✍ Actuarial Membership
 
@@ -179,12 +173,12 @@ I am a member of two Actuarial bodies:
     ![Jinja](https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=white)&nbsp;
     ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)&nbsp;
 
-- Backend : <br />
+- Backend : <br/>
     ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)&nbsp;
     ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)&nbsp;
     ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)&nbsp;
 
-- OS & IDE : <br />
+- OS & IDE :  
     ![Jupyter](https://img.shields.io/badge/Jupyter-333333?logo=Jupyter)&nbsp;
     ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)&nbsp;
     ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)&nbsp;
