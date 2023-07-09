@@ -29,9 +29,8 @@ I'm from India, living in Gurgaon and currently working at Accenture. You can fi
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 
 <!-- <p align='justify'>
-As an Actuarial Data Scientist, I pursue research in the area of data-driven fraud detection using actuarial and data science techniques for insurance industry. I use the amalgamation of actuarial science and data science to solve complex problems in the areas of my research. This research is first of its kind in the Indian Insurance Industry. Latest data science techniques, which has shown immense benefit in other field of research, are being used for this work. I have made multiple presentation in international conferences, published 7 research works in international journal and 1 book chapter.
-    <br/>
-    <br/>
+As an Actuarial Data Scientist, I pursue research in the area of data-driven fraud detection using actuarial and data science techniques for insurance industry. I use the amalgamation of actuarial science and data science to solve complex problems in the areas of my research. This research is first of its kind in the Indian Insurance Industry. Latest data science techniques, which has shown immense benefit in other field of research, are being used for this work. I have made multiple presentation in international conferences, published 7 research works in international journal and 1 book chapter.  
+     
 Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit and motivation are my frameworks for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow.
 </p> -->
 
@@ -92,25 +91,25 @@ Identifying improved approaches and enhanced solutions to business challenges ar
 
 ## 👨‍💻 Work Experience (Data Science Specific)
 
-- **CAS Student Central Independent Summer Internship Program** | Jun 2020 – Aug 2020 <br/> *Casualty Actuarial Society – USA*
+- **CAS Student Central Independent Summer Internship Program** | Jun 2020 – Aug 2020   *Casualty Actuarial Society – USA*
   - Participated in a program spanning 6 weeks focused on various aspects of Property & Casualty
   - Attended practical webinars by Qualified Actuaries, and completed projects designed by them
   - Attained insights into data visualization, pricing, reserving and predictive modelling
 
-- **Learning Management System for University** | Apr 2020 – Jul 2020 <br/>
+- **Learning Management System for University** | Apr 2020 – Jul 2020  
   - Part of the core team which built, customized and implemented the Learning Management System for the university (SSSIHL)
   - Helped deploy the system through Amazon Web Services to facilitate the access of the system by all the students and faculty members using their laptops or mobile phone anywhere in the world
   - Around 1400 users use this on a daily basis
 
-- **Doctor of Philosophy, Actuarial Science** | Jun 2019 – Present <br/> *Sri Sathya Sai Institute of Higher Learning*
+- **Doctor of Philosophy, Actuarial Science** | Jun 2019 – Present   *Sri Sathya Sai Institute of Higher Learning*
   - Developing a novel approach to data-driven fraud detection and prevention in insurance using actuarial and data science techniques
   - Building a proof of concept fraud detection tool which can be accessed via web by the user
 
-- **Department of Mathematics and Computer Science** | Jun 2019 – Present <br/> *Sri Sathya Sai Institute of Higher Learning*
+- **Department of Mathematics and Computer Science** | Jun 2019 – Present   *Sri Sathya Sai Institute of Higher Learning*
   - Teaching Actuarial Science subjects for Masters
   - Providing Actuarial Dissertation Research support
 
-- **Workshop Hands-on Predictive Analytics with Python** | Feb 2021 – Mar 2021 <br/> *Sri Sathya Sai Institute of Higher Learning*
+- **Workshop Hands-on Predictive Analytics with Python** | Feb 2021 – Mar 2021   *Sri Sathya Sai Institute of Higher Learning*
   - Part of a team that conducted a 5 week long workshop on hands-on predictive analytics using python
   - With Jupyter Notebook as a platform for python implementation, demonstrated the use of packages like numpy, pandas, matplotlib and scikit learn
   - Provided hands-on training on various Machine Learning and Deep Learning models
@@ -156,24 +155,24 @@ I am a member of two Actuarial bodies:
 
 ## 🔧 Technologies I've been learning and using so far
 
-- Programming languages : <br />
+- Programming languages :  
     ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)&nbsp;
     ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)&nbsp;
     ![RShiny](https://img.shields.io/badge/R_Shiny-13B5EA?logo=r&logoColor=white)&nbsp;
     ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)&nbsp;
 
-- Machine Learning / Deep Learning frameworks : <br />
+- Machine Learning / Deep Learning frameworks :  
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)&nbsp;
     ![Scikit-learn](http://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)&nbsp;
     ![Keras](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white)&nbsp;
 
-- Frontend : 
+- Frontend :  
     ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)&nbsp;
     ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)&nbsp;
     ![Jinja](https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=white)&nbsp;
     ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)&nbsp;
 
-- Backend :
+- Backend :  
     ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)&nbsp;
     ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)&nbsp;
     ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)&nbsp;
@@ -186,7 +185,7 @@ I am a member of two Actuarial bodies:
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?logo=Ubuntu)&nbsp;
     ![Windows](https://img.shields.io/badge/Windows-333333?logo=Windows&logoColor=white)&nbsp;
 
-- Tools : <br />
+- Tools :  
     ![Excel](https://img.shields.io/badge/MS_Excel-217346?logo=microsoft-excel&logoColor=white)&nbsp;
     ![Office](https://img.shields.io/badge/MS_Office-D83B01?logo=microsoft-office&logoColor=white)&nbsp;
     ![Powerpoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)&nbsp;
@@ -195,7 +194,7 @@ I am a member of two Actuarial bodies:
     ![Anaconda](https://img.shields.io/badge/Anaconda-333333?logo=Anaconda)&nbsp;
     ![OBS](https://img.shields.io/badge/OBS_Studio-302E31?logo=obs-studio&logoColor=white)&nbsp;
 
-- Packages : <br />
+- Packages :  
     ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)&nbsp;
     ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)&nbsp;
     ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)&nbsp;
