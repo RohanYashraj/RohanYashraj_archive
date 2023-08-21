@@ -42,7 +42,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 </p>
 
 ___
-### Click here to visit my Portfolio -> [http://rohanyashraj.github.io](http://rohanyashraj.github.io)
+### Click here to visit my Portfolio -> [https://rohanyashraj.github.io](https://rohanyashraj.github.io)
 ___
 
 <!-- <p align='justify'>
