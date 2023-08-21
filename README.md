@@ -1,4 +1,7 @@
-# Hi there, I'm Rohan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Rohan! 
+<!-- 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+-->
 <!-- <p align='center'>
 <img src="img/profile.png" width="250px">
 </p> -->
